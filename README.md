@@ -16,6 +16,7 @@ Adventurer, refugee, battleworn soldier, apprentice mage, cleric of one of a tho
   * [Some Thoughts on Creating a Backstory](backstory-advice.md)
 * Geography
 * History
+  * [Sanctuary](city-sanctuary-history.md)
 * Religion
 * Magic
 * Society
