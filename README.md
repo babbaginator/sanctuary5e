@@ -13,6 +13,7 @@ Adventurer, refugee, battleworn soldier, apprentice mage, cleric of one of a tho
 ## Menu
 
 * [Getting Started](getting-started.md)
+  * [Some Thoughts on Creating a Backstory](backstory-advice.md)
 * Geography
 * History
 * Religion
