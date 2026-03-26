@@ -12,7 +12,7 @@ Adventurer, refugee, battleworn soldier, apprentice mage, cleric of one of a tho
 
 ## Menu
 
-* Getting Started
+* [Getting Started](getting-started.md)
 * Geography
 * History
 * Religion
