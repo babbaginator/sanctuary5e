@@ -14,10 +14,10 @@ Adventurer, refugee, battleworn soldier, apprentice mage, cleric of one of a tho
 
 * [Getting Started](getting-started.md)
   * [Some Thoughts on Creating a Backstory](backstory-advice.md)
-* Geography
-* History
-  * [Sanctuary](city-sanctuary-history.md)
-* Religion
+* The World of Avakar
+* Gods & Religion
+* Settlements
+  * [Sanctuary (city)](sanctuary.md)  
 * Magic
 * Society
 * People
