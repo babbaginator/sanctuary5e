@@ -39,5 +39,4 @@ Given the huge diversity of people who have assembled in Sanctuary, commerce is 
 
 **So you should expect that 1 gp represents one to two days’ wages for most people you encounter in the streets.**
 
-## Backstory
-You are encouraged to develop an interesting backstory for your character. This does not need to be particularly lengthy, but it should provide a sense of what your character is motivated by, who they are and who they wish to become. 
+[Continue to Backstory](backstory-advice.md)
